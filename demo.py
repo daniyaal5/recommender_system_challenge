@@ -2,6 +2,7 @@ import numpy as np
 from lightfm.datasets import fetch_movielens
 from lightfm import LightFM
 
+
 #CHALLENGE part 1 of 3 - write your own fetch and format method for a different recommendation
 #dataset. Here a good few https://gist.github.com/entaroadun/1653794 
 #And take a look at the fetch_movielens method to see what it's doing 
